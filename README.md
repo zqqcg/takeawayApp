@@ -70,32 +70,32 @@
 
 1. 首页
 
-![首页](https://raw.githubusercontent.com/dragon-liu/picBed/master/img/QQ%E5%9B%BE%E7%89%8720211102110806.png?token=AJJYY5S4HG4VEOL4HCZ4AGDBQCW3M)
+![首页](https://takeaway.4everland.store/网页捕获_31-7-2022_115524_localhost.jpeg)
 
 2. 订单
 
-![订单](https://raw.githubusercontent.com/dragon-liu/picBed/master/img/202111021133379.png)
+![订单](https://takeaway.4everland.store/网页捕获_31-7-2022_12326_localhost.jpeg)
 
 3. 搜索
 
-![搜索](https://raw.githubusercontent.com/dragon-liu/picBed/master/img/202111021134670.png)
+![搜索](https://takeaway.4everland.store/网页捕获_31-7-2022_12314_localhost.jpeg)
 
 4. 个人
 
-![个人](https://raw.githubusercontent.com/dragon-liu/picBed/master/img/202111021135769.png)
+![个人](https://takeaway.4everland.store/网页捕获_31-7-2022_115114_localhost.jpeg)
 
 5. 登陆
 
-![登陆](https://raw.githubusercontent.com/dragon-liu/picBed/master/img/202111021136950.png)
+![登陆](https://takeaway.4everland.store/网页捕获_31-7-2022_115134_localhost.jpeg)
 
 6. 商家信息
 
-![商家信息](https://raw.githubusercontent.com/dragon-liu/picBed/master/img/202111021137629.png)
+![商家信息](https://takeaway.4everland.store/网页捕获_31-7-2022_12535_localhost.jpeg)
 
 7. 商家评价
 
-![商家评价](https://raw.githubusercontent.com/dragon-liu/picBed/master/img/202111021137465.png)
+![商家评价](https://takeaway.4everland.store/网页捕获_31-7-2022_12520_localhost.jpeg)
 
 8. 商家详情
 
-![商家详情](https://raw.githubusercontent.com/dragon-liu/picBed/master/img/202111021138618.png)
+![商家详情](https://takeaway.4everland.store/网页捕获_31-7-2022_12550_localhost.jpeg)
